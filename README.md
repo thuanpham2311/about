@@ -2,8 +2,6 @@
 
 # Auto redirect to dsc-stu github page
 
-Welcome to the club! Here's all the stuff you need to know, use, and focus on.
-
 Reach out to [Thuan Pham](https://github.com/thuanpham2311) or go to [Discussion](https://github.com/dsc-stu/dsc-stu/discussions) if you have any questions!
 
 <table>
